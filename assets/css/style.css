@@ -1,0 +1,348 @@
+.back-black{
+    background-repeat: no-repeat;
+    background-image: url("../img/bg-blur.jpg");
+    background-size: cover;
+    background-position: center center;
+    width: 100%;
+    height: 100%;
+    opacity: 1;
+    visibility: inherit;
+    z-index: 20;
+    color:white;
+}
+nav{
+    float: left;
+}
+nav ul{
+    margin-top: 40px;
+    margin-left: 10px;
+}
+nav ul li{
+    display: inline;
+}
+nav ul li a{
+    display: inline-block;
+    text-decoration: none;
+    font-family: Raleway;
+    font-size: 16px;
+    color: white;
+    font-weight: 600;
+    margin: 18px;
+    margin-left: 10px;
+}
+nav ul li i{
+    margin-right: 10px;
+}
+/**********nav**********/
+
+.nav-right{
+    float: right;
+}
+.nav-right ul{
+    margin-top: 28px;
+    padding: 10px 12px 10px 12px;
+    border: 2px solid white;
+    border-radius: 3px;
+}
+.nav-right ul li{
+    display: inline;
+}
+.nav-right ul li a{
+    font-family: Raleway;
+    font-size: 16px;
+    color: white;
+    font-weight: 600;
+    margin-left: 10px;
+}
+.nav-right ul li i{
+    margin-right: 10px;
+}
+/***************nav-right********/
+.slider{
+    margin-top: 80px;
+}
+.slider-center{
+    text-align: center;
+}
+.slider-center h1{
+    font-family: Raleway;
+    font-weight: 800;
+    font-size: 3em;
+}
+.slider-center h3{
+    font-family: Raleway;
+    font-weight: 600;
+    font-size: 2.3em;
+}
+.slider-center p{
+    margin-top: 66px;
+    font-family: Raleway;
+    font-size: 20px;
+    font-weight: 600;
+}
+.slider-center span{
+    padding-right: 20px;
+}
+.slider-center ul{
+    margin-top: 20px;
+}
+.slider-center ul li{
+    display: inline;
+    margin: 5px;
+}
+.one-2{
+    text-align: center;
+    margin-top: 93px;
+    margin-bottom: 81px;
+}
+.one-2 i{
+    color: #30c6e3;
+}
+.one-2 h1{
+    font-size: 3em;
+    font-family: Raleway;
+    color: #292e36;
+    margin-top: 36px;
+}
+.one-2 h3{
+    font-size: 1.8em;
+    font-family: Raleway;
+    color: #292e36;
+}
+.one-2 p{
+    font-size: 15px;
+    font-family: Raleway;
+    color: #787d85;
+    margin-top: 45px;
+}
+.one-2 ul li{
+    display: inline;
+}
+.one-2 ul{
+    margin-left: 30px;
+    margin-top: 40px;
+}
+.one-2 a{
+    display: inline-block;
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 500;
+    color: white;
+    text-decoration: none;
+    padding: 15px 18px 15px 18px;
+    background-color: #25c3e2;
+    border-radius: 3px;
+    margin-top: 40px;
+}
+.back-grey{
+    background-color: #f9f9fa;
+}
+.center-heading{
+    text-align: center;
+    margin-top: 68px;
+}
+.center-heading h1{
+    font-size: 2.4em;
+    font-family: Raleway;
+    color: #292e36;
+}
+.center-heading h3{
+    font-size: 1.6em;
+    font-family: Raleway;
+    color: #292e36;
+}
+.center-heading p{
+    font-size: 15px;
+    font-family: Raleway;
+    color: #787d85;
+    margin-top: 45px;
+}
+.center-heading ul li{
+    display: inline;
+    margin: 15px;
+}
+.center-heading ul li a{
+    display: inline-block;
+    color: black;
+    font-family: Raleway;
+    font-weight: 800;
+    text-decoration: none;
+    margin-top: 40px;
+    border-bottom: 3px solid #25c3e2;
+    padding-bottom: 5px;
+}
+.C-img{
+    margin-top: 58px;
+    text-align: center;
+}
+.C-img p{
+    font-family: Raleway;
+    font-size: 14px;
+    font-weight: 600;
+    color: #787d85;
+    text-align: center;
+    margin-top: 10px;
+}
+.down-txt{
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.down-txt h1{
+    font-size: 2.4em;
+    font-family: Raleway;
+}
+.down-txt h3{
+    font-size: 1.4em;
+    font-family: Raleway;
+}
+.down-txt a{
+    display: inline-block;
+    text-decoration: none;
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+    padding: 15px 20px 15px 20px;
+    background-color: #25c3e2;
+    border-radius: 3px;
+    margin-top: 35px;
+    text-align: center;
+}
+.feature-heading{
+    text-align: center;
+    margin-top: 70px;
+}
+.feature-heading i{
+    color: #30c6e3;
+}
+.feature-heading h1{
+    font-size: 2.6em;
+    font-family: Raleway;
+}
+.feature-heading h3{
+    font-family: Raleway;
+    font-size: 18px;
+}
+.feature-img{
+    text-align: center;
+    margin-top: 75px;
+}
+.feature-img h4{
+    font-family: Raleway;
+    color: black;
+    font-size: 18px;
+}
+.feature-img p{
+    font-family: Raleway;
+    font-size: 14px;
+}
+.feature img{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.customer-txt{
+    text-align: center;
+    margin-top: 60px;
+}
+.customer-txt i{
+    color: #e1e2e4;
+    transition: 0.40s ease-in-out;
+}
+.customer-txt i:hover{
+    color: #fec108;
+    cursor: pointer;
+}
+.customer-txt p{
+    font-family: Raleway;
+    font-size: 16px;
+    color: #787d85;
+    line-height: 2 !important;
+    margin-top: 25px;
+}
+.customer-txt span{
+    color: black;
+    font-weight: 600;
+    margin-top: 30px;
+}
+.customer{
+    margin-top: 85px;
+}
+.customer-img{
+    text-align: center;
+    opacity: 0.7;
+    margin-top: 60px;
+    transition: 0.40s ease-in-out;
+}
+.customer-img:hover{
+    cursor: pointer;
+    opacity:7;
+}
+.customer-img p{
+    font-size: 14px;
+    font-family: Raleway;
+    color: black;
+    margin-top: 20px;
+    transition: 0.40s ease-in-out;
+}
+.customer-img p:hover{
+    color: black;
+}
+.customer-txt abbr i{
+    color: #fec108;
+    font-size: 18px;
+    margin-left: 6px;
+    transition: 0.40 ease-in-out;
+}
+.customer-txt abbr i:hover{
+    cursor: pointer;
+    color: red;
+}
+#customer{
+  padding-bottom: 90px;
+}
+footer{
+    background-color: #23262d;
+    height: 60px;
+}
+footer p{
+    font-family: Raleway;
+    font-size: 16px;
+    color: white;
+    float: left;
+    padding-left: 10px;
+    padding-top: 20px;
+}
+footer span img{
+    padding-right: 10px;
+}
+footer ul{
+    float: right;
+    padding-top: 20px;
+}
+footer ul li{
+    display: inline;
+    margin: 10px;
+}
+footer ul li a{
+    display: inline-block;
+    text-decoration: none;
+    font-family: Raleway;
+    font-size: 16px;
+    color: white;
+}
+#pre{
+    padding-bottom: 80px;
+}
+#one-white h1{
+    color: white;
+}
+#one-white h3{
+    color: white;
+}
+#one-white p{
+    color: #90979e;
+}
+#slider{
+    padding-bottom: 80px;
+}
